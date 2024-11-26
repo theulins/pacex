@@ -1,0 +1,51 @@
+/* Arquivo styles.css */
+
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f7f6;
+    color: #333;
+}
+
+.header {
+    background-color: #6f9c3f; /* Verde escuro */
+    color: white;
+    padding: 40px 0;
+    text-align: center;
+}
+
+.section {
+    margin: 50px 0;
+}
+
+.section h2 {
+    color: #2f6a33; /* Verde claro */
+    font-size: 2rem;
+    font-weight: 700;
+}
+
+.section p {
+    font-size: 1.125rem;
+    line-height: 1.6;
+}
+
+.btn-custom {
+    background-color: #6f9c3f;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    font-size: 1rem;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+    margin-top: 20px;
+}
+
+.btn-custom:hover {
+    background-color: #557f33; /* Verde escuro hover */
+}
+
+.footer {
+    background-color: #2f6a33;
+    color: white;
+    padding: 20px 0;
+    text-align: center;
+}
